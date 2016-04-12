@@ -1,4 +1,4 @@
-# Tesint-with-JUnit
+# Testing-with-JUnit
 
 1. Download JUnit from https://sourceforge.net/projects/junit/files/junit/3.8.1/junit3.8.1.zip/download?use_mirror=tenet.
 2. Extract junit.jar
