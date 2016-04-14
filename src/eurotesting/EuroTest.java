@@ -1,3 +1,5 @@
+package eurotesting;
+
 import junit.framework.*;
 
 public class EuroTest extends TestCase {
